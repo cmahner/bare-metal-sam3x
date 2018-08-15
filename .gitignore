@@ -40,3 +40,7 @@
 *.bin
 *.elf
 *.map
+
+# Exceptions
+!bossac.exe
+!bossac.bat
